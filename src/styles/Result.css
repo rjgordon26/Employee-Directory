@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    background-color: steelblue;
+    color: azure;
+    padding: 20px;
+}
+
+.table {
+    text-align: center;
+    padding: 15px;
+    align-content: center;
+}
+
+.form-group {
+    background-color: lightsteelblue;
+    padding: 15px;
+}
