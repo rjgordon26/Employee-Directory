@@ -1,3 +1,23 @@
+# Employee-Directory
+
+## Description
+
+This application let's the user search through their employee directory by name and information. Application will pull up all results that match the request.
+
+## Usage
+
+The user can search using the search bar and pull up all results they require.
+
+## Contact
+
+Github Username: rjgordon26
+LinkedIn: Raymond Gordon
+Email Address: Rjgordon26@gmail.com
+
+## Screenshots
+
+![Screenshot](https://user-images.githubusercontent.com/71281777/99758346-0f5bfa80-2ab7-11eb-8889-d9dad1f5b40c.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
